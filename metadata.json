@@ -1,0 +1,8 @@
+{
+  "name": "Taif Med Cytology Lab - Anki Spaced Repetition",
+  "description": "Interactive Anki SM-2 spaced repetition flashcard app for 1st Year Medical Biology 1 Cytology Lab Revision at Taif University College of Medicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
